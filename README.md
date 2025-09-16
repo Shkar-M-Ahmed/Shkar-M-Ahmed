@@ -60,4 +60,4 @@
 
 [facebook-url]: https://facebook.com/shkarhawrami.121121
 [instagram-url]: https://instagram.com/ardawan.511
-[tiktok-url]: https://www.tiktok.com/@ardawan_
+[tiktok-url]: https://www.tiktok.com/@shkar_35
