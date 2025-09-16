@@ -1,8 +1,7 @@
 # Shkar M Ahmed
 **Full-Stack Developer | Mobile App Developer | Web Solutions Architect** 
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-6366f1?style=flat-square&logo=github&logoColor=f8fafc&labelColor=1e293b)](https://github.com/Arda524)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-10b981?style=flat-square&logo=web&logoColor=f8fafc&labelColor=1e293b)](https://ardawan.netlify.app)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-6366f1?style=flat-square&logo=github&logoColor=f8fafc&labelColor=1e293b)](https://github.com/Shkar-M-Ahmed)
 [![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=flat-square&logo=facebook&logoColor=f8fafc&labelColor=1e293b)][facebook-url]
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=f8fafc&labelColor=1e293b)][instagram-url]
 [![TikTok](https://img.shields.io/badge/TikTok-Follow-000000?style=flat-square&logo=tiktok&logoColor=f8fafc&labelColor=1e293b)][tiktok-url]
@@ -44,17 +43,6 @@
 ![Contabo](https://img.shields.io/badge/Contabo-003580?style=flat-square&logo=contabo&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-## 🚀 Current Focus
-
-<div align="left">
-
-| 🎯 **React Mastery** | 📱 **Flutter Excellence** | 🌐 **Full-Stack Integration** | 🔧 **Best Practices** |
-| :--- | :--- | :--- | :--- |
-| Advanced React patterns | Cross-platform development | End-to-end solutions | Clean code principles |
-| State management | Native performance | API design & integration | Scalable architecture |
-| Next.js framework | Firebase integration | Database optimization | Testing & DevOps |
-
-</div>
 
 ## 💼 What I Bring to the Table
 
@@ -68,9 +56,8 @@
 
 </div>
 
- *"Empty Pockets, Rich Mind — that's how empires start."*  
- — Ardawan M Amin
+ — Shkar M Ahmed
 
-[facebook-url]: https://facebook.com/Ardawan.511
+[facebook-url]: https://facebook.com/shkarhawrami.121121
 [instagram-url]: https://instagram.com/ardawan.511
 [tiktok-url]: https://www.tiktok.com/@ardawan_
